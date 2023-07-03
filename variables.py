@@ -1,6 +1,6 @@
 # Variables de tipo primitivo
 
-edad = 35
+Edad = 35
 print(edad)
 print(type(edad))
 
