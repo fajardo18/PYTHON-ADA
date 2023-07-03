@@ -1,6 +1,6 @@
 # Variables de tipo primitivo
 
-Edad = 35
+edad = 35
 print(edad)
 print(type(edad))
 
@@ -8,13 +8,13 @@ peso = 75.2
 print(peso)
 print(type(peso))
 
-Edad = True
-print(Edad)
+edad = True
+print(edad)
 
-Peso = False
-print(Peso)
+peso = False
+print(peso)
 
-Edad = input()
+edad = input()
 print("Tu tienes", int(edad), "años")
 
 # Límite de los enteros y los flotantes en python
